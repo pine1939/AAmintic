@@ -1,5 +1,7 @@
 {
   "url-backend": "127.0.0.1",
-  "port": 9999
-}
+  "port": 9999,
 
+  "data-db-connection": "mongodb+srv://pine1939:4KAP6G9ZCKH7snMT@cluster0.kkygfzt.mongodb.net/AAA.mintic2022?retryWrites=true&w=majority",
+  "name-db": "minticAAA"
+}

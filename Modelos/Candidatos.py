@@ -1,4 +1,4 @@
 from Modelos.AbstractModelo import AbstractModelo
-class Estudiante(AbstractModelo):
+class Candidatos(AbstractModelo):
     pass
 
